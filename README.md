@@ -12,7 +12,7 @@ Effortlessly transform Fast.com into dark mode with this lightweight and fast Ch
 
 	1.	Clone this repository to your local machine:
 
-       - git clone https://github.com/nishant0207/fast-dark-mode.git
+       		- git clone https://github.com/nishant0207/fast-dark-mode.git
 
 	2.	Open Google Chrome and navigate to chrome://extensions/.
 	3.	Enable Developer Mode (toggle it in the top-right corner).
