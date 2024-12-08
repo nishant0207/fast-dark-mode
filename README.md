@@ -37,14 +37,14 @@ Effortlessly transform Fast.com into dark mode with this lightweight and fast Ch
    ```bash
    cd fast-dark-mode
 
-4.	Open Google Chrome:
+4.	**Open Google Chrome:**
 	•	Navigate to chrome://extensions/ in the address bar.
-5.	Enable Developer Mode:
+5.	**Enable Developer Mode:**
 	•	Toggle the Developer mode switch in the top-right corner of the page.
-6.	Load the Extension:
+6.	**Load the Extension:**
 	•	Click the Load Unpacked button.
 	•	Select the folder where you cloned the repository (fast-dark-mode).
-7.	Verify the Extension:
+7.	**Verify the Extension:**
 	•	Once loaded, you should see the extension listed on the Chrome extensions page.
 	•	Visit Fast.com to confirm that dark mode is applied.
 
