@@ -8,42 +8,43 @@ Effortlessly transform Fast.com into dark mode with this lightweight and fast Ch
 	•	🚀 Lightweight and fast – zero delays.
 	•	💻 Easy to install and use.
 
-## Installation
+## **Installation**
 
-	1.	Install Git (if not already installed):
-	•	Windows: Download and install Git from git-scm.com.
-	•	Mac: Git is pre-installed. If not, install it using Homebrew:
+1. **Install Git (if not already installed):**  
+   - **Windows:** Download and install Git from [git-scm.com](https://git-scm.com/).  
+   - **Mac:** Git is pre-installed. If not, install it using Homebrew:  
+     ```bash
+     brew install git
+     ```
+   - **Linux:** Install Git using your package manager. For example, on Ubuntu:  
+     ```bash
+     sudo apt-get install git
+     ```
 
-			brew install git
+2. **Clone the Repository:**  
+   - Open a terminal (Command Prompt, PowerShell, or Terminal on Mac/Linux).  
+   - Navigate to the folder where you want to download the repository. Use the `cd` command to change directories. For example:  
+     ```bash
+     cd /path/to/your/folder
+     ```
+   - Run the following command to clone the repository:  
+     ```bash
+     git clone https://github.com/nishant0207/fast-dark-mode.git
+     ```
+   - This will create a folder named `fast-dark-mode` containing all the files for the project.
 
-	•	Linux: Install Git using your package manager. For example, on Ubuntu:
+3. **Navigate to the Cloned Repository:**  
+   ```bash
+   cd fast-dark-mode
 
-			sudo apt-get install git
-
-	2.	Clone the Repository:
-	•	Open a terminal (Command Prompt, PowerShell, or Terminal on Mac/Linux).
-	•	Navigate to the folder where you want to download the repository. Use the cd command to change directories. For example:
-
-			cd /path/to/your/folder
-
-	•	Run the following command to clone the repository:
-
-			git clone https://github.com/nishant0207/fast-dark-mode.git
-
-	•	This will create a folder named fast-dark-mode containing all the files for the project.
-
-	3.	Navigate to the Cloned Repository:
-
-			cd fast-dark-mode
-
-	4.	Open Google Chrome:
+4.	Open Google Chrome:
 	•	Navigate to chrome://extensions/ in the address bar.
-	5.	Enable Developer Mode:
+5.	Enable Developer Mode:
 	•	Toggle the Developer mode switch in the top-right corner of the page.
-	6.	Load the Extension:
+6.	Load the Extension:
 	•	Click the Load Unpacked button.
 	•	Select the folder where you cloned the repository (fast-dark-mode).
-	7.	Verify the Extension:
+7.	Verify the Extension:
 	•	Once loaded, you should see the extension listed on the Chrome extensions page.
 	•	Visit Fast.com to confirm that dark mode is applied.
 
