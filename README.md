@@ -34,8 +34,8 @@ Effortlessly transform Fast.com into dark mode with this lightweight and fast Ch
    - This will create a folder named `fast-dark-mode` containing all the files for the project.
 
 3. **Navigate to the Cloned Repository:**  
-   ```bash
-   cd fast-dark-mode
+   	```bash
+   		cd fast-dark-mode
 
 4.	**Open Google Chrome:**
 	•	Navigate to chrome://extensions/ in the address bar.
