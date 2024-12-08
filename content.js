@@ -1,0 +1,1 @@
+console.log("Fast.com Dark Mode activated!");

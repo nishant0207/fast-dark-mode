@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "Fast.com Dark Mode",
+    "version": "1.0",
+    "description": "Toggle dark mode on Fast.com.",
+    "permissions": ["activeTab"],
+    "host_permissions": ["https://fast.com/*"],
+    "content_scripts": [
+      {
+        "matches": ["https://fast.com/*"],
+        "js": ["content.js"],
+        "css": ["style.css"]
+      }
+    ]
+  }

@@ -1,0 +1,95 @@
+/* Global invert for dark mode with adjusted hue */
+html, body {
+    background-color: #191C19 !important; /* Light dark tone for the background */
+    color: #e8e8e8 !important; /* Soft white text for better readability */
+    font-family: "Arial", sans-serif;
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+/* Ensure images and videos look normal */
+img, video {
+  filter: invert(1) hue-rotate(180deg);
+}
+
+/* Header logo adjustment */
+#speed-progress-indicator-logo {
+  filter: none !important;
+}
+
+/* Customize the speed text to make it pop */
+.speed-value {
+  font-size: 10vw; /* Make the speed value large and immersive */
+  color: #00ff7f !important; /* Neon green for a techy vibe */
+  text-shadow: 0px 0px 10px #00ff7f; /* Glow effect */
+}
+
+/* Style subtext for contrast */
+.speed-units {
+  color: #e0e0e0 !important;
+  font-size: 2vw;
+}
+
+.your-speed-message{
+    color: #fff !important;
+}
+.speed-left-container{
+    color: #fff !important;
+}
+.speed-right-container{
+    color: #fff !important;
+}
+.speed-results-container.succeeded{
+    color: #fff !important;
+}
+.speed-units-container.succeeded{
+    color: #fff !important;
+}
+.oc-icon.speed-progress-indicator-icon.oc-icon-refresh{
+    color: #fff !important;
+}
+
+
+.speed-controls-container{
+    background-color: #191C19 !important; /* Light dark tone for the background */
+    color: #e8e8e8 !important; /* Soft white text for better readability */
+    font-family: "Arial", sans-serif;
+}
+
+/* Buttons and controls */
+button {
+  background-color: #333 !important;
+  color: #e0e0e0 !important;
+  border: 1px solid #555 !important;
+  border-radius: 8px;
+  padding: 10px 20px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #555 !important;
+  color: #fff !important;
+}
+
+/* Centered elements styling */
+.centered {
+  color: #e0e0e0 !important;
+}
+
+/* Footer and other text adjustments */
+footer {
+  color: #777 !important;
+}
+
+a {
+  color: #00bfff !important;
+  text-decoration: none !important;
+}
+
+a:hover {
+  color: #1e90ff !important;
+  text-decoration: underline !important;
+}
