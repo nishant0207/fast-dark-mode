@@ -27,3 +27,8 @@ Effortlessly transform Fast.com into dark mode with this lightweight and fast Ch
 ## Contributing
 
 Pull requests are welcome! If you have suggestions for new features or improvements, feel free to fork the repo and create a PR.
+
+## Screenshot
+
+<img width="1552" alt="Screenshot 2024-12-08 at 2 08 04 AM" src="https://github.com/user-attachments/assets/b82b5a1e-5ccf-4ed9-bb9e-85470f03533b">
+
